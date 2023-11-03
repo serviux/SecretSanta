@@ -1,0 +1,18 @@
+{
+  "files": {
+    "send_email.py": [
+      {
+        "id": "ad80e2bc-4943-4a4f-8752-cbc0f8f9e848",
+        "line": 17,
+        "version": 1689,
+        "index": 338
+      },
+      {
+        "id": "f0af0322-ba58-4e46-ae8a-213ed583333e",
+        "line": 58,
+        "version": 1689,
+        "index": 1841
+      }
+    ]
+  }
+}
